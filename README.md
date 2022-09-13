@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mngz47
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on anything good
+- 👀 I’m interested in node-js and python machine learning
+- 🌱 Avoid the obstacle and make it through the 7 stages 
 - 📫 How to reach me mngz636@gmail.com
 
 <!---
