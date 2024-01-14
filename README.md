@@ -1,6 +1,6 @@
 <h3>Hello I am Automatic :</h3>
 
-![p_logo](https://github.com/mngz47/mngz47/assets/15697629/9a43d4bf-cb5a-40ef-954f-b05d86f8934c)
+![image](https://github.com/mngz47/mngz47/assets/15697629/4d7af814-ecfc-4ec9-8da9-8cf19e15f973)
 
 https://www.youtube.com/watch?v=v0RCxMvRtMs
 
@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=v0RCxMvRtMs
 -    IG @mongezisibongakonke
 -    Blog https://medium.com/@mngz636
 -    Channel https://www.youtube.com/@sibongakonkemongezi1670
+-    Please contribute you can link your profile when complete
 
 <h3>Play:</h3>
 
