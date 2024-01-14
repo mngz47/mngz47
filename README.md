@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=v0RCxMvRtMs
 -    IG @mongezisibongakonke
 -    Blog https://medium.com/@mngz636
 -    Channel https://www.youtube.com/@sibongakonkemongezi1670
--    Please contribute you can link your profile when complete
+-    Please contribute some code, you can link your profile for exposure
 
 <h3>Play:</h3>
 
