@@ -1,6 +1,6 @@
-<h3>Hello I am Automatic :</h3>
+<h3>Automatic :</h3>
 
-![image](https://github.com/mngz47/mngz47/assets/15697629/4d7af814-ecfc-4ec9-8da9-8cf19e15f973)
+![image](https://github.com/mngz47/mngz47/assets/15697629/0dd93061-3fc9-45c1-9ee5-1acf856bbee3)
 
 https://www.youtube.com/watch?v=v0RCxMvRtMs
 
