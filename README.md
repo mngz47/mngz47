@@ -28,6 +28,13 @@ https://mngz47.github.io/cv_engine/</br>
 
 ![Mngz47 GitHub stats](https://github-readme-stats.vercel.app/api?username=mngz47&show_icons=true&theme=radical)
 
+<h3>Tech Stack:</h3>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <b>Follow Me On IG:</b> https://www.instagram.com/mongezisibongakonke</br>
 <b>Invest:</b> https://www.patreon.com/productlists 
  
