@@ -37,6 +37,8 @@ https://mngz47.github.io/cv_engine/</br>
 
 <b>Follow Me On IG:</b> https://www.instagram.com/mongezisibongakonke</br>
 <b>Invest:</b> https://www.patreon.com/productlists 
+
+![](https://komarev.com/ghpvc/?username=mngz47)
  
 <!---
 mngz47/mngz47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
