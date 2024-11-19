@@ -37,6 +37,7 @@ https://mngz47.github.io/cv_engine/</br>
 
 <b>Follow Me On IG:</b> https://www.instagram.com/mongezisibongakonke</br>
 <b>Invest:</b> https://www.patreon.com/productlists 
+<b>ML on Kaggle:</b> https://www.kaggle.com/sibongakonkemongezi
 
 ![](https://komarev.com/ghpvc/?username=mngz47)
  
