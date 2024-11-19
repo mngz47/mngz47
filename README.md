@@ -36,7 +36,7 @@ https://mngz47.github.io/cv_engine/</br>
  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <b>Follow Me On IG:</b> https://www.instagram.com/mongezisibongakonke</br>
-<b>Invest:</b> https://www.patreon.com/productlists 
+<b>Invest:</b> https://www.patreon.com/productlists</br>
 <b>ML on Kaggle:</b> https://www.kaggle.com/sibongakonkemongezi
 
 ![](https://komarev.com/ghpvc/?username=mngz47)
