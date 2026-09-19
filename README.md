@@ -1,26 +1,12 @@
 <h3>Automatic :</h3>
 
-![image](https://github.com/mngz47/mngz47/assets/15697629/0dd93061-3fc9-45c1-9ee5-1acf856bbee3)
+<img width="1366" height="641" alt="home_tab_1" src="https://github.com/user-attachments/assets/63048834-1b93-4125-bdf5-c0e28ef3f110" />
 
-https://www.youtube.com/watch?v=v0RCxMvRtMs
-
-<h3>Intro:</h3>
-
-- 👀 I’m interested in node-js and python machine learning
--    Automatic is my nickname
-- 🌱 Avoid the obstacle and make it through the 7 stages https://mngz47.github.io/F-Snake/
-- 📫 How to reach me mngz636@gmail.com
--    IG @mongezisibongakonke
--    Blog https://medium.com/@mngz636
--    Channel https://www.youtube.com/@sibongakonkemongezi1670
--    Work https://www.linkedin.com/in/mongezi-mafunda-5a5620108/
--    Please contribute some code, you can link your profile for exposure
+Clipping Tool 3 Avera Key (https://discord.gg/hpSBRwWMQ5)
 
 <h3>Play:</h3>
 
-https://mngz47.github.io/F-Snake/</br>
-https://mngz47.github.io/kasi_nametest/</br>
-https://mngz47.github.io/cv_engine/</br>
+[F Snake VR](https://mngz47.github.io/F-Snake-VR/)
 
 <h3>Performance:</h3>
 
