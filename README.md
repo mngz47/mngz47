@@ -8,11 +8,6 @@ Clipping Tool 3 Avera Key (https://discord.gg/hpSBRwWMQ5)
 
 [F Snake VR](https://mngz47.github.io/F-Snake-VR/)
 
-<h3>Performance:</h3>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mngz47&theme=tokyonight)
-
-![Mngz47 GitHub stats](https://github-readme-stats.vercel.app/api?username=mngz47&show_icons=true&theme=radical)
 
 <h3>Tech Stack:</h3>
 
@@ -21,8 +16,7 @@ Clipping Tool 3 Avera Key (https://discord.gg/hpSBRwWMQ5)
  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<b>Follow Me On IG:</b> https://www.instagram.com/mongezisibongakonke</br>
-<b>Invest:</b> https://www.patreon.com/productlists</br>
+
 <b>ML on Kaggle:</b> https://www.kaggle.com/sibongakonkemongezi
 
 ![](https://komarev.com/ghpvc/?username=mngz47)
